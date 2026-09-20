@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=1200&color=D6001C&center=true&vCenter=true&width=650&lines=Jos%C3%A9+G%C3%B3mez+Garc%C3%ADa;Pentester+Junior+%7C+Red+Team;Especializado+en+Active+Directory" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=1200&color=D6001C&center=true&vCenter=true&width=650&lines=Jos%C3%A9+G%C3%B3mez+Garc%C3%ADa;Pentester+Junior+%7C+Red+Team;" alt="Typing SVG" />
 
 <br>
 
