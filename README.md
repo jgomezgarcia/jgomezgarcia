@@ -1,4 +1,22 @@
-ovimiento lateral) y escalada de privilegios en Linux y Windows.
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=1200&color=D6001C&center=true&vCenter=true&width=650&lines=Jos%C3%A9+G%C3%B3mez+Garc%C3%ADa;Pentester+Junior+%7C+Red+Team;Especializado+en+Active+Directory" alt="Typing SVG" />
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D6001C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josegomezgarcia)
+[![Email](https://img.shields.io/badge/Email-D6001C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseegg71@gmail.com)
+[![Ubicación](https://img.shields.io/badge/Sanl%C3%BAcar_de_Barrameda%2C_Espa%C3%B1a-1A1A1A?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+</div>
+
+---
+
+### 🕷️ Sobre mí
+
+Estudiante de **Ingeniería Informática** enfocado en **Ciberseguridad y Red Team**, cursando actualmente el **Máster Experto en Ciberseguridad y Hacker Ético** (Universidad Isabel I).
+
+Realizo auditorías ofensivas en entornos controlados aplicando metodología real: reconocimiento y fingerprinting de servicios, explotación mediante CVE públicos, ataques a **Active Directory** (Kerberoasting, AS-REP Roasting, movimiento lateral) y escalada de privilegios en Linux y Windows.
 
 Antes de esto, pasé varios años en el **sector de la construcción** — de ahí una ética de trabajo exigente, capacidad real de resolver problemas bajo presión y la disciplina para aprender rápido y comprometerme con resultados reales, no solo con la teoría.
 
@@ -88,3 +106,4 @@ Antes de esto, pasé varios años en el **sector de la construcción** — de ah
 *"El acceso inicial casi nunca es root — pero con metodología, siempre se llega."*
 
 </div>
+
