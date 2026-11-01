@@ -27,65 +27,59 @@ Antes de esto, pasé varios años en el **sector de la construcción** — de ah
 🌱 Profundizando en Active Directory: Kerberoasting, BloodHound, NetExec y movimiento lateral
 💬 Pregúntame sobre: pentesting web, escalada de privilegios en Linux, fundamentos de AD
 📫 Contacto: joseegg71@gmail.com · linkedin.com/in/josegomezgarcia
+```
 
 ---
 
-🛠️ Stack Técnico
+### 🛠️ Stack Técnico
 
-Ofensiva & Metodología
+**Ofensiva & Metodología**
 
-OWASP (https://img.shields.io/badge/OWASP-D6001C?style=flat-square&logo=owasp&logoColor=white)
-Nmap (https://img.shields.io/badge/Nmap-1A1A1A?style=flat-square)
-Burp Suite (https://img.shields.io/badge/Burp_Suite-1A1A1A?style=flat-square)
-Metasploit (https://img.shields.io/badge/Metasploit-1A1A1A?style=flat-square)
-Wireshark (https://img.shields.io/badge/Wireshark-1A1A1A?style=flat-square&logo=wireshark&logoColor=white)
-BloodHound (https://img.shields.io/badge/BloodHound-1A1A1A?style=flat-square)
-Hashcat (https://img.shields.io/badge/Hashcat-1A1A1A?style=flat-square)
+![OWASP](https://img.shields.io/badge/OWASP-D6001C?style=flat-square&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-1A1A1A?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-1A1A1A?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-1A1A1A?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1A1A1A?style=flat-square&logo=wireshark&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-1A1A1A?style=flat-square)
+![Hashcat](https://img.shields.io/badge/Hashcat-1A1A1A?style=flat-square)
 
-Lenguajes
+**Lenguajes**
 
-Python (https://img.shields.io/badge/Python-D6001C?style=flat-square&logo=python&logoColor=white)
-C++ (https://img.shields.io/badge/C++-D6001C?style=flat-square&logo=cplusplus&logoColor=white)
-SQL (https://img.shields.io/badge/SQL-D6001C?style=flat-square&logo=mysql&logoColor=white)
-Bash (https://img.shields.io/badge/Bash-D6001C?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-D6001C?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-D6001C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-D6001C?style=flat-square&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-D6001C?style=flat-square&logo=gnubash&logoColor=white)
 
-Sistemas & Infraestructura
+**Sistemas & Infraestructura**
 
-Linux (https://img.shields.io/badge/Linux-1A1A1A?style=flat-square&logo=linux&logoColor=white)
-Kali Linux (https://img.shields.io/badge/Kali_Linux-1A1A1A?style=flat-square&logo=kalilinux&logoColor=white)
-Docker (https://img.shields.io/badge/Docker-1A1A1A?style=flat-square&logo=docker&logoColor=white)
-Git (https://img.shields.io/badge/Git-1A1A1A?style=flat-square&logo=git&logoColor=white)
-VirtualBox (https://img.shields.io/badge/VirtualBox-1A1A1A?style=flat-square&logo=virtualbox&logoColor=white)
-
----
-
-🎯 Áreas de Especialización
-
-┌────────────────────────────┬──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│            Área            │                                                               Qué incluye                                                                │
-├────────────────────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ 🏰 Active Directory        │ Enumeración (NetExec, BloodHound), ataques a Kerberos (Kerberoasting, AS-REP Roasting), envenenamiento de red (LLMNR/NBT-NS, NTLM Relay) │
-├────────────────────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ 🌐 Web Hacking             │ XSS, CSRF, SSRF, IDOR, CORS mal configurado, Path Traversal, vulnerabilidades de CMS                                                     │
-├────────────────────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ 🧨 Explotación de CVE      │ Fingerprinting de servicios, búsqueda y adaptación de exploits públicos (Exploit-DB), obtención y estabilización de shells               │
-├────────────────────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ 🔓 Escalada de Privilegios │ Linux (SUID, capabilities, sudo, cron) y post-explotación orientada a Windows/AD                                                         │
-├────────────────────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ 🔍 Reconocimiento & OSINT  │ Enumeración de subdominios, descubrimiento de activos, metodología de reconocimiento pasivo/activo                                       │
-├────────────────────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ 🐛 Bug Bounty              │ Metodología de caza de vulnerabilidades y redacción de reportes técnicos orientados a impacto real                                       │
-└────────────────────────────┴──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+![Linux](https://img.shields.io/badge/Linux-1A1A1A?style=flat-square&logo=linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-1A1A1A?style=flat-square&logo=kalilinux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1A1A1A?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1A1A1A?style=flat-square&logo=git&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-1A1A1A?style=flat-square&logo=virtualbox&logoColor=white)
 
 ---
 
-🎓 Formación y Certificaciones
+### 🎯 Áreas de Especialización
 
-- 🎓 Máster Experto en Ciberseguridad y Hacker Ético — Universidad Isabel I (completado)
-- 🎓 Grado en Ingeniería Informática (Rama de Software) — Universidad de Cádiz (en curso)
-- ✅ Cisco CCNA — Introducción a Redes
-- ✅ BIG School — Hacking Ético: explotación de WordPress, suplantación de identidad y Bug Bounty
-- ✅ Red Team Labs — Pentesting en entornos locales (escalada de privilegios y persistencia)
+| Área | Qué incluye |
+|---|---|
+| 🏰 **Active Directory** | Enumeración (NetExec, BloodHound), ataques a Kerberos (Kerberoasting, AS-REP Roasting), envenenamiento de red (LLMNR/NBT-NS, NTLM Relay) |
+| 🌐 **Web Hacking** | XSS, CSRF, SSRF, IDOR, CORS mal configurado, Path Traversal, vulnerabilidades de CMS |
+| 🧨 **Explotación de CVE** | Fingerprinting de servicios, búsqueda y adaptación de exploits públicos (Exploit-DB), obtención y estabilización de shells |
+| 🔓 **Escalada de Privilegios** | Linux (SUID, capabilities, sudo, cron) y post-explotación orientada a Windows/AD |
+| 🔍 **Reconocimiento & OSINT** | Enumeración de subdominios, descubrimiento de activos, metodología de reconocimiento pasivo/activo |
+| 🐛 **Bug Bounty** | Metodología de caza de vulnerabilidades y redacción de reportes técnicos orientados a impacto real |
+
+---
+
+### 🎓 Formación y Certificaciones
+
+- 🎓 **Máster Experto en Ciberseguridad y Hacker Ético** — Universidad Isabel I *(completado)*
+- 🎓 **Grado en Ingeniería Informática** (Rama de Software) — Universidad de Cádiz *(en curso)*
+- ✅ **Cisco CCNA** — Introducción a Redes
+- ✅ **BIG School** — Hacking Ético: explotación de WordPress, suplantación de identidad y Bug Bounty
+- ✅ **Red Team Labs** — Pentesting en entornos locales (escalada de privilegios y persistencia)
 
 <!--
   📌 Cuando obtengas eJPT/eCPPT, añade aquí sus badges oficiales, por ejemplo:
@@ -94,15 +88,14 @@ VirtualBox (https://img.shields.io/badge/VirtualBox-1A1A1A?style=flat-square&log
 
 ---
 
-📌 Proyectos Destacados
+### 📌 Proyectos Destacados
 
-🔹 BigShop — Auditoría de Seguridad Web (https://github.com/jgomezgarcia/bigshop-security-audit)
-
+#### 🔹 [BigShop — Auditoría de Seguridad Web](https://github.com/jgomezgarcia/bigshop-security-audit)
 Auditoría de seguridad de caja negra (TFM del Máster) sobre un laboratorio con 4 aplicaciones web, en el rol de auditor externo partiendo únicamente de una dirección IP.
 
-Hallazgos (https://img.shields.io/badge/hallazgos-34-D6001C?style=flat-square) Críticos (https://img.shields.io/badge/críticos-15-1A1A1A?style=flat-square)
+![Hallazgos](https://img.shields.io/badge/hallazgos-34-D6001C?style=flat-square) ![Críticos](https://img.shields.io/badge/críticos-15-1A1A1A?style=flat-square)
 
-- 34 hallazgos documentados con metodología profesional: CVSS, CWE, PoC reproducible y remediación por cada uno.
+- **34 hallazgos documentados** con metodología profesional: CVSS, CWE, PoC reproducible y remediación por cada uno.
 - Cadenas de explotación completas hasta RCE y toma de cuenta administradora.
 - Bypass de autenticación JWT, inyección SQL, IDOR, SSRF, Path Traversal, condiciones de carrera.
 - Compromiso cruzado entre dos aplicaciones distintas del mismo cliente a partir de una sola vulnerabilidad no autenticada.
@@ -113,6 +106,6 @@ Hallazgos (https://img.shields.io/badge/hallazgos-34-D6001C?style=flat-square) C
 
 <div align="center">
 
-"El acceso inicial casi nunca es root — pero con metodología, siempre se llega."
+*"El acceso inicial casi nunca es root — pero con metodología, siempre se llega."*
 
 </div>
